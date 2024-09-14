@@ -1,0 +1,14 @@
+div{
+    background-color: aqua;
+}
+section{
+    background-color: blueviolet;
+    padding:10px;
+}
+
+/*Styling of card container*/
+#card{
+    border:none;
+    margin:auto;
+    padding:20px;
+}
